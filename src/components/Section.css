@@ -1,0 +1,6 @@
+#teamContainer{
+    display: flex;
+    justify-content: space-evenly;
+    background-color:rgb(8, 26, 105);
+    border: solid 1px rgb(0, 144, 163);
+}

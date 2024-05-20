@@ -1,0 +1,7 @@
+#teamImgCss{
+    display: inline-block;
+    width: 25%;
+    border-radius: 50%;
+    padding: 15px;
+    border:dotted 0.5px black;
+}

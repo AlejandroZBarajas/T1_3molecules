@@ -1,0 +1,10 @@
+#teamCardCss{
+    border-top-left-radius: 90%;
+    border-top-right-radius:500%;
+    border:solid 1px rgb(3, 94, 110);
+    display: flex;
+    flex-wrap: wrap;
+    width: 30%;
+    align-items: center;
+    background-color: rgb(0, 12, 82);
+}
