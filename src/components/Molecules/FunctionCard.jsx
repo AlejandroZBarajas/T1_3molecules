@@ -1,7 +1,7 @@
 import "./FunctionCard.css"
 
-import "../Atoms/FunctionTitle"
-import "../Atoms/FunctionDescriptions"
+//import "../Atoms/FunctionTitle"
+//import "../Atoms/FunctionDescriptions"
 import FunctionTitle from "../Atoms/FunctionTitle"
 import FunctionDescription from "../Atoms/FunctionDescriptions"
 

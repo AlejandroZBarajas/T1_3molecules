@@ -1,0 +1,8 @@
+#medallContainer{
+    width: 30%;
+    display: flex;
+    flex-wrap: wrap;
+background-color: rgb(190, 208, 214);
+    justify-content: space-evenly;
+    border: solid 2px rgb(122, 144, 151);
+}

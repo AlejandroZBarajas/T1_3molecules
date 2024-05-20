@@ -1,0 +1,10 @@
+#medallimgCss{
+    display: inline-block;
+    width: 15%;
+    border-bottom-left-radius:250% ;
+    border-bottom-right-radius: 250%;
+    border: rgb(30, 197, 30) solid 5px;
+    border-top-left-radius: 250%;
+    border-top-right-radius: 40%;
+    
+}
