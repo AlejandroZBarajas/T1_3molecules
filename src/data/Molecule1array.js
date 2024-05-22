@@ -8,7 +8,7 @@ const teamArray = {
         img:"alejandro.jpg"
     },{
         name:"Jhonatan Zúñiga",
-        img:""
+        img:"not.png"
     }]
 }
 
